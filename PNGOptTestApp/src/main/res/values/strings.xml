@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PNGOptTestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="title_naitive_view">Naitve View</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="action_webview">WebView</string>
+    <string name="action_naitive">Naitive</string>
+    <string name="version">Version</string>
+    <string name="app_version">0.01</string>
+    <string name="copyright">"Copyright(C) 1997-2014 Web Technology Corp. All rights reserved.</string>
+
+</resources>
